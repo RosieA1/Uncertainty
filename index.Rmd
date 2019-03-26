@@ -2,10 +2,8 @@
 title: "Government Uncertainty Guidance"
 author: "Cross-Government Analyst Group"
 date: "`r Sys.Date()`"
-bibliography:
-- book.bib
-- packages.bib
-description: ''
+bibliography: [book.bib, packages.bib]
+description: 'An Aqua Book Addendum'
 documentclass: book
 github-repo: rosiea1/uncertainty
 link-citations: yes
