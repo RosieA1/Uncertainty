@@ -197,7 +197,7 @@
 <h5left><br> 2-dimensional error bars can be used where necessary </h5left>
 
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/error_bars.png")
 
@@ -217,7 +217,7 @@ knitr::include_graphics("images/error_bars.png")
 
 <h5left><br> Think about whether the audience will be familiar with the format </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/box_plots.png")
 
@@ -243,7 +243,7 @@ knitr::include_graphics("images/box_plots.png")
 
 <h5left><br> Labelling can be used to highlight the key features </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/pdf.png")
 
@@ -257,7 +257,7 @@ knitr::include_graphics("images/pdf.png")
 
 ### If there are only 2 or 3 these can be overlaid to make it easy to compare. With more, ‘small multiples’ are likely to be clearer.
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/multiple_pdf.png")
 
@@ -267,7 +267,7 @@ knitr::include_graphics("images/multiple_pdf.png")
 
 <h5left><br> Violin plots can be used to compare PDFs </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/violin_plots.png")
 
@@ -287,7 +287,7 @@ knitr::include_graphics("images/violin_plots.png")
 
 <h5left><br> Labelling can be used to highlight the key features </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/cdf.png")
 
@@ -305,7 +305,7 @@ knitr::include_graphics("images/cdf.png")
 
 <h5left><br> Avoid including the mode </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/fan_chart.png")
 
@@ -325,7 +325,7 @@ knitr::include_graphics("images/fan_chart.png")
 
 ### Also, the uncertainty within each methodology is not shown.
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/spaghetti.png")
 
@@ -349,7 +349,7 @@ knitr::include_graphics("images/spaghetti.png")
 
 <h5left><br> Try to have an even number of scenarios </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/multiple+line.png")
 
@@ -373,7 +373,7 @@ knitr::include_graphics("images/multiple+line.png")
 
 <h5left><br> Tornado diagrams can be misleading in complex models </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/tornado.png")
 
@@ -397,7 +397,7 @@ knitr::include_graphics("images/tornado.png")
 
 <h5left><br> Example – confidence intervals </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/infographic.png")
 
@@ -407,7 +407,7 @@ knitr::include_graphics("images/infographic.png")
 
 <h5left><br> Visualise relative magnitudes </h5left>
 
-```{r fig.align="center"}
+```{r fig.align="center", echo=FALSE}
 
 knitr::include_graphics("images/infographic.png")
 
