@@ -5,7 +5,7 @@
 
 <h4> Preparing to conduct the analysis </h4>
 
-<h5right> This section covers plausible scenarios to consider, testing, and interpreting outputs.
+<h5right> This section covers plausible scenarios to consider, testing, and interpreting outputs. </h5right>
 
 ## Plausible scenarios
 

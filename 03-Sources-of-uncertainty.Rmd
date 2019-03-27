@@ -57,6 +57,7 @@
 
 ### Are there known biases or uncertainties in the data that you can quantify and potentially correct? For example, is there information about systematic missingness or under-reporting that you have data on or can correct through external validation or weighting?
 
+
 ## Data Processing 
 
 <h5left><br> Data processing may introduce new uncertainty or errors </h5left> 
@@ -92,6 +93,7 @@
 <h5left><br> How has disclosure control been applied? </h5left>
 
 ### How was disclosure control done and what are the impacts? Well-designed anonymisation should usually result in loss of detail with no systematic impact - but poorly designed disclosure control can introduce structural effects. In some cases, the exclusion of data can lead to systematic errors (biases) in results. Where data has been suppressed, it should be clearly caveated so that you can make decisions about the suitability of the data source.
+
 
 ## Specification of the model 
 
@@ -179,7 +181,7 @@
 
 ### A range is similar to a probability distribution, it considers the possible outcomes but does not consider the probability of each outcome occurring. If there are data or resource limitations a range can be a simple way to illustrate the uncertainty in a parameter.
 
-<h5left><br> Can you create a range? <h5left>
+<h5left><br> Can you create a range? </h5left>
 
 ### Historical data can be used to quantify a range. Consider how the parameter has changed over a suitable time period, the maximum and minimum values could provide a sensible range. When using historical data be aware that you will only be able to assess 'business as usual' uncertainty, if there are future shocks to the system this may fall outside your historic range.
 
